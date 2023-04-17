@@ -38,7 +38,7 @@ Thumbs.db
 dist/**/*
 
 # Ignore cache folder
-cache/**/*
+/.cache
 
 # ignore yarn.lock
 yarn.lock
